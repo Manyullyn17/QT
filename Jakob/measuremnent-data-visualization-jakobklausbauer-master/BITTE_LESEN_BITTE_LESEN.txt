@@ -1,0 +1,6 @@
+Dieses Projekt wurde hier Event-basiert umgesetzt (Kevin, Anton und ich haben bereits zu Beginn des
+Projektes im Unterricht mit dieser Methode begonnen, da sie recht flexible Provider erlaubt).
+
+Einige Stellen in der Implementierung mögen komisch und unnötig umständlich erscheinen, dies hat meist
+mit Optimierungen hinsichtlich QChart/QLineSeries zu tun, welche (meiner Erfahrung nach) relativ langsam
+sind.
